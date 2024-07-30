@@ -1,5 +1,6 @@
 # IS-LAB
-> Manipal institute of Technology **Information Security Lab**: Sem 5
+> ### Manipal Institute of Technology: Sem 5
+> ### Computers and Communication engineering: **Information Security Lab**
 
 ## Index
 - [Additive Cipher](https://github.com/avaniishivaram/IS-LAB/blob/main/additiveCipher.py)
